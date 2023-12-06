@@ -15,4 +15,7 @@
   },
   "devDependencies": {
     "ts-loader": "^9.5.1",
-    "typescript": "
+    "typescript": "^5.3.2",
+    "typings": "^2.1.1"
+  }
+}
